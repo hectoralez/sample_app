@@ -1,0 +1,15 @@
+one:
+  follower: hector
+  followed: lana
+
+two:
+  follower: hector
+  followed: malory
+
+three:
+  follower: lana
+  followed: hector
+
+four:
+  follower: archer
+  followed: hector
